@@ -9,7 +9,7 @@ Aplikasi ini dibuat untuk membantu mencatat tugas dan memberikan pengingat otoma
 - Memberi notifikasi pengingat sebelum waktu tenggat.
 - Melatih siswa mengelola waktu dengan lebih baik.
 
-## ⚙️ Teknologi yang Digunakan
+## ⚙️ Software Yang Di Gunakan
 - **Python**
 - **JSON** untuk penyimpanan data
 - **Datetime & Time** library untuk pengingat otomatis
@@ -23,4 +23,5 @@ Aplikasi ini dibuat untuk membantu mencatat tugas dan memberikan pengingat otoma
    - `4` → Aktifkan mode pengingat (cek otomatis setiap 1 menit)
 3. Simpan semua tugas di file `tugas.json`
 
-## 📂 Struktur Folder
+## 🔔 Pengingat Tugas
+Pengingat tugas hanya berfungsi jika deadline kurang dari 1-5 menit
