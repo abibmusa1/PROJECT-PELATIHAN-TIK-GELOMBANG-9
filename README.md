@@ -1,23 +1,26 @@
-# Nama Proyek: Reminder Tugas Sekolah
+# 📚 Aplikasi Pengingat Tugas Sekolah Berbasis (Python)
 
-## Latar Belakang
-Banyak siswa sering lupa deadline tugas. Oleh karena itu, dibuat aplikasi berbasis Python untuk membantu siswa mencatat dan mengingatkan tugas yang harus dikerjakan.
+## 🧠 Latar Belakang
+Banyak siswa sering lupa dengan tenggat waktu tugas sekolah.  
+Aplikasi ini dibuat untuk membantu mencatat tugas dan memberikan pengingat otomatis sebelum deadline tiba.
 
-## Tujuan dan Manfaat
-- Membantu siswa mengatur jadwal tugas
-- Mengirimkan notifikasi atau pengingat otomatis
+## 🎯 Tujuan dan Manfaat
+- Membantu siswa mengatur dan memantau jadwal tugas.
+- Memberi notifikasi pengingat sebelum waktu tenggat.
+- Melatih siswa mengelola waktu dengan lebih baik.
 
-## Teknologi
-- Python 3
-- Library: datetime, os, tkinter (atau lainnya)
+## ⚙️ Teknologi yang Digunakan
+- **Python**
+- **JSON** untuk penyimpanan data
+- **Datetime & Time** library untuk pengingat otomatis
 
-## Cara Menggunakan
-1. Jalankan `main.py`
-2. Masukkan daftar tugas dan tanggal pengingat
-3. Aplikasi akan menampilkan notifikasi saat waktu pengingat tiba
+## 🚀 Cara Menggunakan
+1. Jalankan file `main.py`
+2. Pilih menu:
+   - `1` → Tambah tugas baru
+   - `2` → Lihat daftar tugas
+   - `3` → Tandai tugas selesai
+   - `4` → Aktifkan mode pengingat (cek otomatis setiap 1 menit)
+3. Simpan semua tugas di file `tugas.json`
 
-## Kontribusi
-Silakan fork repository ini dan kembangkan sesuai kebutuhan.
-
-## autan Publikasi
-https://github.com/username/projek-tugas-sekolah
+## 📂 Struktur Folder
